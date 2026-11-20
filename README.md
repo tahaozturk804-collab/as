@@ -1,1 +1,2 @@
-# as
+# 1m-no-luai
+yapay zeko
